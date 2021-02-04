@@ -1,4 +1,4 @@
-# TANF Data Portal USWDS ReactJS Exercise (RAFT)
+# TANF Data Portal USWDS ReactJS Exercise
 
 An accessible frontend web application built using ReactJS that utilizes the United States Web Design System [USWDS](https://designsystem.digital.gov/).
 
