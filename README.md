@@ -7,7 +7,7 @@ An accessible frontend web application built using ReactJS that utilizes the Uni
 
 ## Requirements
 
-* **Create Page** - Re-create the page shown in this [screenshot](https://i.snipboard.io/qwsQz9.jpg).
+* **Create Page** - Re-create the page shown.
 * **Three Fields** - The page should have three fields: First Name (Reqd.), Last Name (Reqd.), and Grade (Reqd.). Grade will be a drop down with values `1` to `10`.
 * **Button** - The page should have a "Submit" button. When the required fields are present, the button will output the data in the three fields to console.
 * **Accessibility** - The page should have no accessibility errors based on AA WCAG standards.
